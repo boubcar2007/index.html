@@ -1,0 +1,80 @@
+.text-center{
+    background-color: lightskyblue;
+}
+.name-intro {
+    color: black;
+    
+}
+.top{
+    display: grid;
+    height: 50vh;
+    background-color: #78C1F3;
+    justify-content: center;
+    align-items: center;
+
+}
+.profile-img {
+    border-radius: 50%;
+    height: 300px;
+  }
+  .skills{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #78C1F3;
+    margin-top: 50px;
+    margin-bottom: 20px;
+  }
+  .second {
+    display: flex;
+    align-content: center;
+    align-items: baseline;
+    padding-left:50px ;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+  }
+  .me > h2 {
+    display: flex;
+    align-items: center;
+    align-content: center;
+    color: #241468;
+    padding-left: 40%;
+  }
+  .coding > h3 {
+    text-align: left;
+    margin-bottom: 20px;
+    font-weight: bold;
+    color:#241468 ;
+  }
+  .coding > p{
+  display: flex;
+  align-items: center;
+  align-content: center;
+  text-align: justify;
+
+  }
+  .workout > h3{
+    display: block;
+    color: #241468;
+  }
+  .contact-me > h5 {
+    color: #241468;
+    text-align: center;
+
+  }
+  .contact-me > h4 {
+    text-align: center;
+  }
+  .contact-me > a {
+    display: flex;
+    padding-left: 46%;
+    color: #241468;
+
+  }
+  .bottom-container > a{
+    display: flex;
+    padding-left: 46%;
+  }
+  .bottom-container > p{
+    padding: 50px;
+  }
